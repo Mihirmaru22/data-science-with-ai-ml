@@ -1,0 +1,6 @@
+2025-15-24 15:15:46-root-DEBUG-the addition of two numbers is happeing
+2025-15-24 15:15:46-m1-DEBUG-this is the debug message for module1
+2025-15-24 15:15:46-m2-WARNING-this is the warning message for module2
+2025-15-24 15:15:46-m2-WARNING-this is an warning message
+2025-15-24 15:15:46-m1-ERROR-this is the error message for module1
+2025-15-24 15:15:46-m2-CRITICAL-this is an critical 
